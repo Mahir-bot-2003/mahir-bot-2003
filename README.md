@@ -24,9 +24,8 @@ I'm currently pursuing my degree in Computer Science and Engineering and passion
 
 ## 📫 Let's Connect
 
-- 📧 Email: [mahirmakar25@gmail.com]
-- 💼 LinkedIn: [[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/mahir-makar-51032629b/]
-
+- 📧 Email: mahirmakar25@gmail.com
+- 💼 LinkedIn: (https://www.linkedin.com/in/mahir-makar/)
 ---
 
 ### 🔭 *"Learning by building — one project at a time!"*
@@ -39,13 +38,22 @@ I'm currently pursuing my degree in Computer Science and Engineering and passion
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=mahir-bot-2003&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mahir-bot-2003&theme=tokyonight&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahir-bot-2003&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mahir-bot-2003&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  
+  <br/><br/>
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mahir-bot-2003&theme=tokyonight&hide_border=false" />
+  
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahir-bot-2003&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  
+  <br/><br/>
 
   [![](https://visitcount.itsvg.in/api?id=mahir-bot-2003&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
