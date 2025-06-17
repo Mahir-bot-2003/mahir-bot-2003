@@ -22,18 +22,10 @@ I'm currently pursuing my degree in Computer Science and Engineering and passion
 - 💡 Learning **Java with Data Structures & Algorithms** for problem-solving
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahirmakar&show_icons=true&theme=radical" alt="Mahir's GitHub stats" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 - 📧 Email: [mahirmakar25@gmail.com]
-- 💼 LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/mahir-makar-51032629b/))
+- 💼 LinkedIn: [Mahir Makar]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/mahir-makar-51032629b/))
 - 🌐 Portfolio: Coming Soon!
 
 ---
