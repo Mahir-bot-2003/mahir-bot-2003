@@ -18,7 +18,6 @@ I'm currently pursuing my degree in Computer Science and Engineering and passion
 
 - 🔬 Completing the **Deep Learning Specialization by Andrew Ng**
 - 🚀 Building mobile apps using the **Flutter framework and Dart**
-- 💡 Learning **Java with Data Structures & Algorithms** for problem-solving
 ---
 
 ## 📫 Let's Connect
