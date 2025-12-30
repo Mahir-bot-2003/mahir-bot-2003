@@ -11,7 +11,6 @@ I'm currently pursuing my degree in Computer Science and Engineering and passion
 - 🤖 **Artificial Intelligence & Machine Learning**  
 - 📱 **Cross-Platform App Development using Flutter & Dart**  
 - 🧠 **Deep Learning (Following Andrew Ng's specialization)**  
-- ⚙️ **Java Programming & Data Structures**
 
 ---
 
