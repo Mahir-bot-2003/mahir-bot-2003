@@ -1,6 +1,6 @@
  # 👋 Hi, I'm Mahir Makar
 
-🎓 Computer Science & Engineering Student | 💻 Aspiring AI/ML Engineer | 📱 Flutter Developer in Training
+🎓 Computer Science & Engineering Student | 💻 Aspiring AI/ML Engineer 
 
 ---
 
