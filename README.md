@@ -34,11 +34,6 @@ I'm currently pursuing my degree in Computer Science and Engineering and passion
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MAHIR-BOT-2003&theme=tokyonight" alt="GitHub Streak" /></a>
   
   <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahir-bot-2003&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-  
-  <br/><br/>
-
  ![MAHIR-BOT-2003's Language stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=MAHIR-BOT-2003&type=languages&theme=tokyonight&chart=donut)
 
 </div>
