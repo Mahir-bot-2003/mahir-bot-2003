@@ -1,25 +1,51 @@
-<h1 align="center">Hi 👋, I'm Mahir Makar</h1>
-<h3 align="center">A passionate learner</h3>
+ # 👋 Hi, I'm Mahir Makar
+🎓 Computer Science & Engineering Student | 💻 Aspiring AI/ML Engineer 
+---
+## 🚀 About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahir-bot-2003&label=Profile%20views&color=0e75b6&style=flat" alt="mahir-bot-2003" /> </p>
+I'm currently pursuing my degree in Computer Science and Engineering and passionately building my skills in:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahir-bot-2003" alt="mahir-bot-2003" /></a> </p>
+- 🤖 **Artificial Intelligence & Machine Learning**  
+- 📱 **Cross-Platform App Development using Flutter & Dart**    
+---
 
-- 🌱 I’m currently learning **deep learning and app development**
+## 📚 Current Projects & Learning
 
-- 📫 How to reach me **mahirmakar25@gmail.com**
+- 🔬 Completing the **Artificial intelligent projects**
+- 🚀 Building mobile apps using the **Flutter framework and Dart**
+- ♾️ Learning Core computer science projects 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mahir makar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahir makar" height="30" width="40" /></a>
-<a href="https://instagram.com/mave_csgo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mave_csgo" height="30" width="40" /></a>
-</p>
+## 📫 Let's Connect
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+- 📧 Email: mahirmakar25@gmail.com
+- 💼 LinkedIn: (https://www.linkedin.com/in/mahir-makar/)
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahir-bot-2003&show_icons=true&locale=en&layout=compact" alt="mahir-bot-2003" /></p>
+### 🔭 *"Learning by building — one project at a time!"*
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahir-bot-2003&show_icons=true&locale=en" alt="mahir-bot-2003" /></p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) 
+## 📊 GitHub Stats:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahir-bot-2003&" alt="mahir-bot-2003" /></p>
+<div align="center">
+
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MAHIR-BOT-2003&theme=tokyonight" alt="GitHub Streak" /></a>
+  
+  <br/><br/>
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mahir-bot-2003&theme=tokyonight&hide_border=false" />
+  
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahir-bot-2003&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  
+  <br/><br/>
+
+  [![](https://visitcount.itsvg.in/api?id=mahir-bot-2003&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
