@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mahir%20Makar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Flutter%20Developer%20%E2%80%A2%20CS%20Student&descAlignY=60&descSize=18&descColor=a78bfa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:87AE73,50:302b63,100:24243e&height=200&section=header&text=Mahir%20Makar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Student&descAlignY=60&descSize=18&descColor=a78bfa"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Computer+Science+%26+Engineering+Student;Aspiring+AI+%2F+ML+Engineer;Flutter+%26+Dart+Developer;Building+the+Future%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Computer+Science+%26+Engineering+Student;Aspiring+AI+%2F+ML+Engineer;Building+the+Future%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
 
 <br/>
 
@@ -69,54 +69,27 @@ print(me.get_quote())
 
 ## 🚀 Current Focus
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🤖 AI / ML Engineering</h3>
-      <ul>
-        <li>Building end-to-end machine learning pipelines</li>
-        <li>Exploring deep learning architectures</li>
-        <li>Working on real-world AI projects</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>📱 Mobile Development</h3>
-      <ul>
-        <li>Crafting cross-platform apps with Flutter & Dart</li>
-        <li>Designing clean, intuitive mobile UIs</li>
-        <li>Integrating AI models into mobile applications</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🧩 Core CS Projects</h3>
-      <ul>
-        <li>Strengthening fundamentals in algorithms & data structures</li>
-        <li>Practicing system design principles</li>
-        <li>Solving competitive programming challenges</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🌱 Always Learning</h3>
-      <ul>
-        <li>Keeping up with the latest in AI research</li>
-        <li>Contributing to open-source projects</li>
-        <li>Expanding into backend & cloud integrations</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| 🤖 AI / ML Engineering | 📱 Mobile Development |
+|:---|:---|
+| ▸ Building end-to-end ML pipelines | ▸ Crafting cross-platform apps with Flutter & Dart |
+| ▸ Exploring deep learning architectures | ▸ Designing clean, intuitive mobile UIs |
+| ▸ Working on real-world AI projects | ▸ Integrating AI models into mobile apps |
+
+| 🧩 Core CS Projects | 🌱 Always Learning |
+|:---|:---|
+| ▸ Strengthening algorithms & data structures | ▸ Keeping up with the latest AI research |
+| ▸ Practicing system design principles | ▸ Contributing to open-source projects |
+| ▸ Solving competitive programming challenges | ▸ Expanding into backend & cloud integrations |
+
+</div>
 
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MAHIR-BOT-2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=MAHIR-BOT-2003&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
-
 <br/><br/>
 
 ![MAHIR-BOT-2003's Language Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=MAHIR-BOT-2003&type=languages&theme=tokyonight&chart=donut)
@@ -125,15 +98,6 @@ print(me.get_quote())
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MAHIR-BOT-2003&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
