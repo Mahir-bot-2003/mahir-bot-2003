@@ -90,6 +90,17 @@ print(me.get_quote())
 ## 📊 GitHub Statistics
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MAHIR-BOT-2003/MAHIR-BOT-2003/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MAHIR-BOT-2003/MAHIR-BOT-2003/output/github-snake.svg">
+  <img alt="github snake" src="https://raw.githubusercontent.com/MAHIR-BOT-2003/MAHIR-BOT-2003/output/github-snake.svg">
+</picture>
+
+</div>
+
+</div>
+<div align="center">
 <br/><br/>
 
 ![MAHIR-BOT-2003's Language Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=MAHIR-BOT-2003&type=languages&theme=tokyonight&chart=donut)
